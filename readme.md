@@ -95,13 +95,7 @@ On GitHub since **2013** — from Angular 7 to React to Next.js 16 to React Nati
 
 ---
 
-## 📊 GitHub Activity
 
-![Pavan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PavanDongare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanDongare&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PavanDongare&theme=tokyonight&hide_border=true)
 
 ---
 
