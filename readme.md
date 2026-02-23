@@ -23,23 +23,23 @@ On GitHub since **2013** — from Angular 7 to React to Next.js 16 to React Nati
 
 ## What I've Built
 
-- **[metaflow](https://github.com/PavanDongare/metaflow-app)** — A metadata-driven no-code SaaS framework. Define workflows via config instead of code. Built on Next.js 15 + Supabase with service-oriented architecture and LLM-powered process orchestration.
+- **[metaflow](https://github.com/PavanDongare/metaflow-app)** `[private]` — A metadata-driven no-code SaaS framework. Define workflows via config instead of code. Built on Next.js 15 + Supabase with service-oriented architecture and LLM-powered process orchestration.
 
 - **[web-ssh-gateway](https://github.com/PavanDongare/web-ssh-gateway)** — High-performance, browser-based SSH terminal inspired by Termius. Features tabbed sessions, ghostty-web WASM rendering, and AI voice commands.
 
-- **[dms-app](https://github.com/PavanDongare/dms-app)** — Document Intelligence system with AI-assisted understanding. Upload docs and chat with them using natural language, featuring automated metadata extraction and Supabase backend.
+- **[dms-app](https://github.com/PavanDongare/dms-app)** `[private]` — Document Intelligence system with AI-assisted understanding. Upload docs and chat with them using natural language, featuring automated metadata extraction and Supabase backend.
 
-- **[interview-guide-app](https://github.com/PavanDongare/interview-guide-app)** — Real-time interview assistant with live speech transcription and AI-powered behavioral/technical insights.
+- **[interview-guide-app](https://github.com/PavanDongare/interview-guide-app)** `[private]` — Real-time interview assistant with live speech transcription and AI-powered behavioral/technical insights.
 
 - **[ai-ready-app](https://github.com/PavanDongare/ai-ready-app)** — "Cited" — an AI content optimization platform that analyzes and restructures web pages for better discoverability and citation by AI systems like ChatGPT and Claude.
 
-- **[classic-onenote](https://github.com/PavanDongare/onenote-app)** — Recreates the classic OneNote hierarchical UI (Notebooks > Sections > Pages) with Next.js and Supabase. Features real-time sync and draggable navigation.
+- **[classic-onenote](https://github.com/PavanDongare/onenote-app)** `[private]` — Recreates the classic OneNote hierarchical UI (Notebooks > Sections > Pages) with Next.js and Supabase. Features real-time sync and draggable navigation.
 
 - **[platform](https://github.com/PavanDongare/platform)** — Personal project showcase and portfolio platform built with Next.js, featuring experience timelines and project metrics.
 
 - **[wip](https://github.com/PavanDongare/wip)** — Collaborative project management workbench with a real-time timeline, media-rich updates, and chat-style inputs for tracking task progress.
 
-- **[way-admin](https://github.com/PavanDongare/way-admin)** — Admin dashboard for managing educational content. Features rich text editing, PDF viewing, and integration with Google Cloud Storage.
+- **[way-admin](https://github.com/PavanDongare/way-admin)** `[private]` — Admin dashboard for managing educational content. Features rich text editing, PDF viewing, and integration with Google Cloud Storage.
 
 - **[configcraft-ui](https://github.com/PavanDongare/configcraft-ui)** — Enterprise configuration wizard UI for complex environment setup, featuring dynamic workflow suggestions and modular steps.
 
@@ -51,9 +51,9 @@ On GitHub since **2013** — from Angular 7 to React to Next.js 16 to React Nati
 
 - **[mern](https://github.com/PavanDongare/mern)** — Developer social networking platform built with the MERN stack (MySQL variant). Features professional profiles and community interaction.
 
-- **[extension](https://github.com/PavanDongare/extension)** — Productivity-focused Chrome extension that automatically pauses streaming services when exercise activity stops.
+- **[extension](https://github.com/PavanDongare/extension)** `[private]` — Productivity-focused Chrome extension that automatically pauses streaming services when exercise activity stops.
 
-- **[server](https://github.com/PavanDongare/server)** — Architecture blueprint for multi-app hosting on a single Next.js server using isolated Postgres schemas and Cloudflare Tunnels.
+- **[server](https://github.com/PavanDongare/server)** `[private]` — Architecture blueprint for multi-app hosting on a single Next.js server using isolated Postgres schemas and Cloudflare Tunnels.
 
 ---
 
