@@ -25,77 +25,37 @@ On GitHub since **2013** — from Angular 7 to React to Next.js 16 to React Nati
 
 ## What I've Built
 
-- **[platform](https://github.com/PavanDongare/platform)** — AI-driven workflow builder with visual node-based diagrams using ReactFlow and Tldraw. Integrates Claude AI SDK with a Supabase backend and drag-and-drop UI for dynamic workflow orchestration.
+- **[metaflow](https://github.com/PavanDongare/metaflow-app)** — A metadata-driven no-code SaaS framework. Define workflows via config instead of code. Built on Next.js 15 + Supabase with service-oriented architecture and LLM-powered process orchestration.
 
-- **[ai-ready-app](https://github.com/PavanDongare/ai-ready-app)** — "Cited" — an AI content optimization platform that analyzes web pages and restructures them so AI systems like ChatGPT and Claude are more likely to cite them. Dockerized and production-ready.
+- **[web-ssh-gateway](https://github.com/PavanDongare/web-ssh-gateway)** — High-performance, browser-based SSH terminal inspired by Termius. Features tabbed sessions, ghostty-web WASM rendering, and AI voice commands.
 
-- **[metaflow](https://github.com/PavanDongare/metaflow)** — A metadata-driven no-code SaaS framework. Define workflows via config instead of code. Built on Next.js 15 + Supabase with service-oriented architecture and mock/real backend switching.
+- **[dms-app](https://github.com/PavanDongare/dms-app)** — Document Intelligence system with AI-assisted understanding. Upload docs and chat with them using natural language, featuring automated metadata extraction and Supabase backend.
 
-- **[dms-home](https://github.com/PavanDongare/dms-home)** — Document Management System with AI-assisted understanding. Upload docs, chat with them using Claude AI, with family context memory layers and Supabase backend.
+- **[interview-guide-app](https://github.com/PavanDongare/interview-guide-app)** — Real-time interview assistant with live speech transcription and AI-powered behavioral/technical insights.
 
-- **[way-admin](https://github.com/PavanDongare/way-admin)** — Admin dashboard for managing educational content. Rich text editing, PDF viewer, Razorpay payment integration, Firebase auth, and Google Cloud Storage. Part of a 6-repo interconnected EdTech suite.
+- **[ai-ready-app](https://github.com/PavanDongare/ai-ready-app)** — "Cited" — an AI content optimization platform that analyzes and restructures web pages for better discoverability and citation by AI systems like ChatGPT and Claude.
 
-- **[classic-onenote](https://github.com/PavanDongare/classic-onenote)** — Recreates the classic OneNote 2010 three-panel UI (Notebooks > Sections > Pages > Content) with Next.js, Supabase, and shadcn/ui. Real-time editing with proper database schema. The latest of 4 generations of note-taking apps I've built.
+- **[classic-onenote](https://github.com/PavanDongare/onenote-app)** — Recreates the classic OneNote hierarchical UI (Notebooks > Sections > Pages) with Next.js and Supabase. Features real-time sync and draggable navigation.
 
-- **[start-app](https://github.com/PavanDongare/start-app)** — Production-ready SaaS boilerplate with Next.js, MySQL, JWT authentication, user/project management, API key generation, dashboard analytics, and Nodemailer email integration.
+- **[platform](https://github.com/PavanDongare/platform)** — Personal project showcase and portfolio platform built with Next.js, featuring experience timelines and project metrics.
 
-- **[OneTouchWeb](https://github.com/PavanDongare/OneTouchWeb)** — Home automation platform with PHP backend, push notifications, OTP authentication, and WebService APIs for IoT device control. My largest early project.
+- **[wip](https://github.com/PavanDongare/wip)** — Collaborative project management workbench with a real-time timeline, media-rich updates, and chat-style inputs for tracking task progress.
 
-- **[configcraft-ui](https://github.com/PavanDongare/configcraft-ui)** — A comprehensive UI design system and component showcase. Built with Vite + React 18, featuring the full Radix UI/shadcn library, React Hook Form, and Recharts.
+- **[way-admin](https://github.com/PavanDongare/way-admin)** — Admin dashboard for managing educational content. Features rich text editing, PDF viewing, and integration with Google Cloud Storage.
 
-- **[services-info](https://github.com/PavanDongare/services-info)** — Analytics and services information dashboard with real-time data visualization using Recharts, Supabase backend, and dark mode support.
+- **[configcraft-ui](https://github.com/PavanDongare/configcraft-ui)** — Enterprise configuration wizard UI for complex environment setup, featuring dynamic workflow suggestions and modular steps.
 
-- **[way-app](https://github.com/PavanDongare/way-app)** — Student-facing React Native mobile app with Expo. Redux state management, Firebase backend, document/image handling for iOS, Android, and web.
+- **[services-info](https://github.com/PavanDongare/services-info)** — Global privacy law tracker and analytics dashboard with real-time data visualization using Recharts and Supabase.
 
-- **[timer-app](https://github.com/PavanDongare/timer-app)** — Cross-platform timer built with Expo and React Native. Features audio playback, native animations with Reanimated, and Supabase sync across devices.
+- **[timer-app](https://github.com/PavanDongare/timer-app)** — Smart productivity timer built with React Native and Expo, featuring voice-to-task AI processing and real-time sync.
 
-- **[way-media](https://github.com/PavanDongare/way-media)** — Media management service with Google Cloud Storage integration and Pulumi infrastructure-as-code for cloud resource provisioning.
+- **[OneTouchWeb](https://github.com/PavanDongare/OneTouchWeb)** — Home automation platform with a PHP backend and WebService APIs for remote IoT device control and monitoring.
 
-- **[way-files](https://github.com/PavanDongare/way-files)** — File storage service with AWS S3 integration and AWS CDK for automated cloud infrastructure setup.
+- **[mern](https://github.com/PavanDongare/mern)** — Developer social networking platform built with the MERN stack (MySQL variant). Features professional profiles and community interaction.
 
-- **[extension](https://github.com/PavanDongare/extension)** — A Chrome extension that detects when you stop exercising and automatically pauses Netflix, YouTube, and Amazon Prime. Tough love productivity.
+- **[extension](https://github.com/PavanDongare/extension)** — Productivity-focused Chrome extension that automatically pauses streaming services when exercise activity stops.
 
-- **[mern](https://github.com/PavanDongare/mern)** — Developer social network built with MongoDB, Express, React, and Node. JWT auth, user profiles, Redux state management, and community interactions.
-
-- **[rocketFocus](https://github.com/PavanDongare/rocketFocus)** — Focus session manager built with Expo/React Native. Cross-platform support (iOS, Android, Web) with gesture handling and native navigation.
-
-- **[docker-setup](https://github.com/PavanDongare/docker-setup)** — Full-stack app with Docker Compose orchestration featuring Express backend and React Redux frontend with proper build pipelines.
-
-- **[elearning](https://github.com/PavanDongare/elearning)** — Converts YouTube playlists into structured, browsable online courses that can be shared with students.
-
-- **[server](https://github.com/PavanDongare/server)** — Architecture blueprint for a single Next.js multi-app server with Cloudflare Tunnel, isolated Postgres schemas per app, designed to host multiple SaaS products from one codebase.
-
-- **[hot-or-not-nitt](https://github.com/PavanDongare/hot-or-not-nitt)** — A "Hot or Not" style ranking app with comparison interface, Express API backend, and React frontend.
-
-- **[3-mean](https://github.com/PavanDongare/3-mean)** — A message board application built with the MEAN stack (MongoDB, Express, Angular 8, Node) with Angular Material UI.
-
-- **[countdown-quest-list](https://github.com/PavanDongare/countdown-quest-list)** — A gamified quest/todo list with countdown timers and drag-and-drop reordering via React Beautiful DnD.
-
-- **[mono-fullstack](https://github.com/PavanDongare/mono-fullstack)** — Monorepo with multiple full-stack projects including Docker Compose orchestration, portfolio backend/frontend, and experimental Next.js apps.
-
-- **[kanban](https://github.com/PavanDongare/kanban)** — Kanban board for task management with drag-and-drop cards. Built with Angular 8 and Angular Material.
-
-- **[task-audio-scribe](https://github.com/PavanDongare/task-audio-scribe)** — Audio transcription app that converts voice recordings into structured tasks. Built with React, shadcn/ui, and data visualization.
-
-- **[funacademy](https://github.com/PavanDongare/funacademy)** — Full-stack educational platform with Express backend, React frontend, and Docker containerization.
-
-- **[doitnowai](https://github.com/PavanDongare/doitnowai)** — AI-powered productivity app built with Next.js, shadcn/ui, and Tailwind.
-
-- **[mono](https://github.com/PavanDongare/mono)** — Centralized Express backend with shared auth infrastructure for hosting multiple isolated applications.
-
-- **[project1](https://github.com/PavanDongare/project1)** — Task management app with categories, points tracking, and MySQL database backend.
-
-- **[auth](https://github.com/PavanDongare/auth)** — NextAuth.js authentication reference implementation with SQLite-backed sessions, complete login/logout flows.
-
-- **[autoWhatsapp](https://github.com/PavanDongare/autoWhatsapp)** — Puppeteer-based script that automates sending WhatsApp messages to multiple users via headless browser automation.
-
-- **[varsha_portfolio](https://github.com/PavanDongare/varsha_portfolio)** — Portfolio website built with Next.js and Nextra, featuring markdown blog posts and RSS generation.
-
-- **[scripts](https://github.com/PavanDongare/scripts)** — Collection of data scraping and processing utilities including flight data scrapers and CSV/JSON converters.
-
----
-
-
+- **[server](https://github.com/PavanDongare/server)** — Architecture blueprint for multi-app hosting on a single Next.js server using isolated Postgres schemas and Cloudflare Tunnels.
 
 ---
 
@@ -109,9 +69,9 @@ On GitHub since **2013** — from Angular 7 to React to Next.js 16 to React Nati
 
 ## 🔢 By The Numbers
 
-- **70+** repositories (public + private)
+- **80+** repositories (public + private)
 - **12+** years on GitHub (since 2013)
-- **TypeScript** is my primary language across 25+ projects
+- **TypeScript** is my primary language across 30+ projects
 - **4** note-taking app generations (Angular > React > Next.js > AI-powered)
 - **5+** timer/focus/productivity apps
 - **3** cloud providers used (AWS, GCP, Supabase)
