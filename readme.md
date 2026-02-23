@@ -4,8 +4,6 @@
 
 On GitHub since **2013** — from Angular 7 to React to Next.js 16 to React Native to Claude AI SDK. I follow the tech wherever it goes. Currently deep into **AI-powered platforms**, **no-code SaaS tooling**, and shipping **TypeScript everything**.
 
-> "Ship fast, learn faster."
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -59,13 +57,12 @@ On GitHub since **2013** — from Angular 7 to React to Next.js 16 to React Nati
 
 ---
 
-## 🧠 What Drives Me
+## 🏗️ Areas of Focus
 
-- 📝 **Obsessed with note-taking** — From Angular to React to Next.js + AI, I've rebuilt note apps across every framework generation. The latest one talks back.
-- ⏱️ **Productivity nerd** — Built 5+ timer/focus apps including a Chrome extension that pauses your streaming when you stop exercising.
-- 🏗️ **Platform thinker** — I build frameworks that build apps. Metaflow lets you define SaaS workflows from config. Platform wires AI into visual node graphs.
-- 🤖 **AI-first builder** — Claude AI SDK is in my daily workflow. From content optimization to document chat, everything gets an AI layer.
-- 🎓 **EdTech builder** — Built an entire interconnected 6-repo suite (Way) with admin dashboard, mobile app, media management, and cloud file storage.
+- **Iterative Tool Building** — I have been rebuilding core utilities like note-taking and time-tracking apps for over a decade. This allows me to evaluate how shifts in the ecosystem (from Angular to Next.js and AI) change how we solve foundational problems.
+- **Utility & Automation** — My projects usually start as a solution to a personal or professional friction. I prioritize tools that provide immediate functional value, such as web-based terminal access or automated data extraction.
+- **System Structure** — I am interested in building systems where complex logic and workflows are managed through data ontologies and configuration rather than hardcoded rules.
+- **Functional AI** — I integrate LLMs into my projects where they can effectively handle unstructured information, such as voice-to-task processing or document analysis.
 
 ## 🔢 By The Numbers
 
@@ -82,7 +79,3 @@ On GitHub since **2013** — from Angular 7 to React to Next.js 16 to React Nati
 
 [![Email](https://img.shields.io/badge/Email-dongare.pavan25@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dongare.pavan25@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-PavanDongare-181717?style=flat&logo=github&logoColor=white)](https://github.com/PavanDongare)
-
----
-
-*Building. Shipping. Iterating. Always.*
