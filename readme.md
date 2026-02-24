@@ -57,12 +57,7 @@ On GitHub since **2013** — from Angular 7 to React to Next.js 16 to React Nati
 
 ---
 
-## 🏗️ Areas of Focus
 
-- **Iterative Tool Building** — I have been rebuilding core utilities like note-taking and time-tracking apps for over a decade. This allows me to evaluate how shifts in the ecosystem (from Angular to Next.js and AI) change how we solve foundational problems.
-- **Utility & Automation** — My projects usually start as a solution to a personal or professional friction. I prioritize tools that provide immediate functional value, such as web-based terminal access or automated data extraction.
-- **System Structure** — I am interested in building systems where complex logic and workflows are managed through data ontologies and configuration rather than hardcoded rules.
-- **Functional AI** — I integrate LLMs into my projects where they can effectively handle unstructured information, such as voice-to-task processing or document analysis.
 
 ## 🔢 By The Numbers
 
