@@ -1,6 +1,6 @@
 # Hey, I'm Pavan 👋
 
-**Full-stack developer** and maker.
+**Full-stack developer , TPM ** and maker.
 
 On GitHub since **2013** — from Angular 7 to React to Next.js 16 to React Native to Claude AI SDK. I follow the tech wherever it goes. Currently deep into **AI-powered platforms**, **no-code SaaS tooling**, and shipping **TypeScript everything**.
 
